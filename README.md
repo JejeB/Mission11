@@ -7,3 +7,4 @@ Is using procecing, most of the time browser don't allow this on local resources
 
 You can also use mozzila and disable the option by : Type in the URL "about:config" and put the variable "privacy.file_unique_origin" to false
 "
+Or you can play directly the game here https://genkics.itch.io/mission-11
